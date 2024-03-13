@@ -1,2 +1,1 @@
-# Telecom_Data
-This data is belongs from TRAI about telecom data services take over year (2013, 2018, 2023) 
+Welcome to the TRAI Telecom Data Visualization Project! Here, I'm leveraging Excel sheet data from the Telecom Regulatory Authority of India (TRAI) for the years 2013, 2018, and 2023 to create insightful visualizations. Using Power BI, I've transformed this data into an interactive Indian map structure, highlighting various telecom metrics with distinct colors and fields. Join me in exploring the evolution of India's telecom landscape over the years and uncovering meaningful insights from this comprehensive dataset. Let's dive into the world of telecommunications together!
